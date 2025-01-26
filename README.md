@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aubrey
-- 👀 I’m interested in music/games/linux
-- 🌱 I’m currently learning html/css and R
+- 👀 I’m interested in linux/datascience/economics
+- 🌱 I’m currently learning R
 - 💞️ I’m looking to collaborate on ...
 - 📫 Contact me on aubreymeowx@gmail.com
 - 😄 Pronouns: she/her
